@@ -1,4 +1,19 @@
 <resources>
     <string name="app_name">The Last Mile</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_kdlsfj">kdlsfj</string>
+    <string name="title_activity_user">User</string>
+    <string name="title_activity_courier">Courier</string>
+    <string name="title_activity_main_menu">MainMenu</string>
+    <string name="title_activity_user_login">UserLogin</string>
+    <string name="title_activity_supermarket_login">SupermarketLogin</string>
+    <string name="title_activity_courier_login">CourierLogin</string>
+    <string name="title_activity_logup">Logup</string>
+    <string name="title_activity_start">Start</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_send_message">SendMessage</string>
+    <string name="title_activity_recieve">Recieve</string>
+    <string name="user">user</string>
+    <string name="courier">courier</string>
 </resources>
